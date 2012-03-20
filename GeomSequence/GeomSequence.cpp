@@ -76,6 +76,6 @@ int main()
 	catch (const BadAddition &x)
 		{ printf("Bad addition: %3.3f %3.3f\n",x.Get1(),x.Get2()); }
 	catch (int &idx)
-		{	printf("Negative index: %d\n",idx); }
+		{ printf("Negative index: %d\n",idx); }
 	return 0;
 }
