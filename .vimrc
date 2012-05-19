@@ -8,7 +8,7 @@ set number
 set autoindent
 set tabstop=2
 set t_Co=256
-set pastetoggle= "????? Sohran otstupy pry vstavke
+set pastetoggle=
 set iminsert=0
 set incsearch
 set smartcase
