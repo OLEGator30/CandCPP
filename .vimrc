@@ -6,11 +6,13 @@ set showcmd
 set title
 set number
 set autoindent
-set tabstop=2
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set smarttab
+set expandtab
 set t_Co=256
-set pastetoggle= "????? Sohran otstupy pry vstavke
 set iminsert=0
 set incsearch
 set smartcase
 set undolevels=1000
-
